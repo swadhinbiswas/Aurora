@@ -1,0 +1,30 @@
+[
+    {
+        "System": "Dense (FP16)",
+        "MedQA Acc": 51.2,
+        "MedQA CER": 18.4,
+        "LegalBench Acc": 54.7,
+        "LegalBench CER": 16.1
+    },
+    {
+        "System": "Dense (NVFP4)",
+        "MedQA Acc": 43.8,
+        "MedQA CER": 27.6,
+        "LegalBench Acc": 46.3,
+        "LegalBench CER": 24.9
+    },
+    {
+        "System": "ART (NVFP4)",
+        "MedQA Acc": 55.4,
+        "MedQA CER": 4.1,
+        "LegalBench Acc": 57.8,
+        "LegalBench CER": 3.8
+    },
+    {
+        "System": "Multi-ART (M=3)",
+        "MedQA Acc": 58.9,
+        "MedQA CER": 2.3,
+        "LegalBench Acc": 61.2,
+        "LegalBench CER": 1.9
+    }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "Metric": "Throughput scaling",
+    "Text Pipeline": "CPU-limited",
+    "BPL": "Bandwidth-limited"
+  },
+  {
+    "Metric": "Memory amplification",
+    "Text Pipeline": "High (≫ 1)",
+    "BPL": "Minimal (≈ 1)"
+  },
+  {
+    "Metric": "Latency growth",
+    "Text Pipeline": "Linear in batch size",
+    "BPL": "Sublinear"
+  },
+  {
+    "Metric": "Latency variance",
+    "Text Pipeline": "High",
+    "BPL": "Low"
+  },
+  {
+    "Metric": "Accelerator utilization",
+    "Text Pipeline": "Poor",
+    "BPL": "Near-saturation"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "System": "Dense (FP16, Text)",
+    "Cost": 1.0
+  },
+  {
+    "System": "Dense (NVFP4, Text)",
+    "Cost": 0.72
+  },
+  {
+    "System": "ART (NVFP4)",
+    "Cost": 0.29
+  },
+  {
+    "System": "Multi-ART (NVFP4)",
+    "Cost": 0.43
+  }
+]

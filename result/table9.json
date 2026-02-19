@@ -1,0 +1,26 @@
+[
+    {
+        "Tokenization": "BPE (Text, baseline)",
+        "Accuracy": 68.4,
+        "CER": 12.4,
+        "Prep. Cost": "Runtime"
+    },
+    {
+        "Tokenization": "Byte-level",
+        "Accuracy": 66.1,
+        "CER": 11.8,
+        "Prep. Cost": "Runtime"
+    },
+    {
+        "Tokenization": "Unigram (SentencePiece)",
+        "Accuracy": 68.9,
+        "CER": 11.2,
+        "Prep. Cost": "Runtime"
+    },
+    {
+        "Tokenization": "BPL (Binary, offline)",
+        "Accuracy": 72.1,
+        "CER": 2.4,
+        "Prep. Cost": "Offline"
+    }
+]

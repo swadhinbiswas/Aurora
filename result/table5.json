@@ -1,0 +1,18 @@
+[
+  {
+    "System": "Dense (Text)",
+    "NVFP4": 82
+  },
+  {
+    "System": "Dense (Binary)",
+    "NVFP4": 67
+  },
+  {
+    "System": "ART (Single)",
+    "NVFP4": 14
+  },
+  {
+    "System": "Multi-ART (M=3)",
+    "NVFP4": 5
+  }
+]

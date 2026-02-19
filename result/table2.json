@@ -1,0 +1,37 @@
+[
+  {
+    "System": "Dense (FP16)",
+    "GSM8K": 68.4,
+    "MATH": 24.1,
+    "MMLU": 58.2,
+    "HumanEval": 32.3
+  },
+  {
+    "System": "Dense (NVFP4)",
+    "GSM8K": 61.2,
+    "MATH": 18.7,
+    "MMLU": 52.4,
+    "HumanEval": 26.8
+  },
+  {
+    "System": "ART (FP16)",
+    "GSM8K": 71.3,
+    "MATH": 27.8,
+    "MMLU": 60.1,
+    "HumanEval": 35.4
+  },
+  {
+    "System": "ART (NVFP4)",
+    "GSM8K": 72.1,
+    "MATH": 28.5,
+    "MMLU": 61.3,
+    "HumanEval": 36.6
+  },
+  {
+    "System": "Multi-ART (NVFP4)",
+    "GSM8K": 74.8,
+    "MATH": 31.2,
+    "MMLU": 63.7,
+    "HumanEval": 39.0
+  }
+]

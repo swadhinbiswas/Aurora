@@ -1,0 +1,26 @@
+[
+    {
+        "System": "Dense (Text)",
+        "Retrieval Noise": 41.3,
+        "Tool Misuse": 38.7,
+        "Multi-Step Cascading": 34.2
+    },
+    {
+        "System": "Tool-Augmented",
+        "Retrieval Noise": 52.6,
+        "Tool Misuse": 43.1,
+        "Multi-Step Cascading": 39.8
+    },
+    {
+        "System": "ART (Single)",
+        "Retrieval Noise": 64.8,
+        "Tool Misuse": 66.2,
+        "Multi-Step Cascading": 61.5
+    },
+    {
+        "System": "Multi-ART (M=3)",
+        "Retrieval Noise": 69.1,
+        "Tool Misuse": 70.4,
+        "Multi-Step Cascading": 67.3
+    }
+]

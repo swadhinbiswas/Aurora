@@ -1,0 +1,32 @@
+[
+    {
+        "System": "Dense (FP16, Text)",
+        "ECE": 0.168,
+        "Brier": 0.341,
+        "AUROC": 0.72
+    },
+    {
+        "System": "Dense (NVFP4, Text)",
+        "ECE": 0.243,
+        "Brier": 0.428,
+        "AUROC": 0.64
+    },
+    {
+        "System": "MoE (FP16, Calibrated)",
+        "ECE": 0.112,
+        "Brier": 0.295,
+        "AUROC": 0.78
+    },
+    {
+        "System": "ART (NVFP4, Binary)",
+        "ECE": 0.024,
+        "Brier": 0.142,
+        "AUROC": 0.94
+    },
+    {
+        "System": "Multi-ART (NVFP4, M=3)",
+        "ECE": 0.018,
+        "Brier": 0.118,
+        "AUROC": 0.97
+    }
+]

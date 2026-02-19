@@ -1,0 +1,27 @@
+[
+  {
+    "Configuration": "ART (Binary + NVFP4)",
+    "CER (%)": 2.4,
+    "Stability": "High"
+  },
+  {
+    "Configuration": "— Binary Tokenization",
+    "CER (%)": 6.9,
+    "Stability": "Medium"
+  },
+  {
+    "Configuration": "— Uncertainty Channel",
+    "CER (%)": 8.1,
+    "Stability": "Low"
+  },
+  {
+    "Configuration": "— CRA Verification",
+    "CER (%)": 13.5,
+    "Stability": "Low"
+  },
+  {
+    "Configuration": "Dense NVFP4 (Text)",
+    "CER (%)": 19.8,
+    "Stability": "Very Low"
+  }
+]

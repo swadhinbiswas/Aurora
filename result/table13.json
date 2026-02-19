@@ -1,0 +1,30 @@
+[
+    {
+        "Format": "FP16 (baseline)",
+        "Acc (%)": 71.3,
+        "CER (%)": 3.2,
+        "Mem (GB)": 5.8,
+        "Latency (ms/query)": 142
+    },
+    {
+        "Format": "FP8",
+        "Acc (%)": 71.0,
+        "CER (%)": 3.1,
+        "Mem (GB)": 3.1,
+        "Latency (ms/query)": 89
+    },
+    {
+        "Format": "INT4 (GPTQ)",
+        "Acc (%)": 69.8,
+        "CER (%)": 4.7,
+        "Mem (GB)": 2.0,
+        "Latency (ms/query)": 68
+    },
+    {
+        "Format": "NVFP4 (ART)",
+        "Acc (%)": 72.1,
+        "CER (%)": 2.4,
+        "Mem (GB)": 1.8,
+        "Latency (ms/query)": 52
+    }
+]

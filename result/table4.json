@@ -1,0 +1,22 @@
+[
+  {
+    "System": "Dense (Text)",
+    "FP16": 12.4,
+    "NVFP4": 19.8
+  },
+  {
+    "System": "Dense (Binary)",
+    "FP16": 10.1,
+    "NVFP4": 14.5
+  },
+  {
+    "System": "ART (Binary)",
+    "FP16": 3.2,
+    "NVFP4": 2.4
+  },
+  {
+    "System": "Multi-ART (M=3)",
+    "FP16": 1.6,
+    "NVFP4": 1.1
+  }
+]

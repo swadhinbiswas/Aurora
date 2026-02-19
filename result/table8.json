@@ -1,0 +1,32 @@
+[
+    {
+        "K_max": 4,
+        "D_max": 2,
+        "Accuracy (%)": 69.4,
+        "Rel. Cost": 0.21
+    },
+    {
+        "K_max": 8,
+        "D_max": 4,
+        "Accuracy (%)": 72.1,
+        "Rel. Cost": 0.29
+    },
+    {
+        "K_max": 16,
+        "D_max": 4,
+        "Accuracy (%)": 72.3,
+        "Rel. Cost": 0.38
+    },
+    {
+        "K_max": 8,
+        "D_max": 6,
+        "Accuracy (%)": 72.0,
+        "Rel. Cost": 0.34
+    },
+    {
+        "K_max": 16,
+        "D_max": 8,
+        "Accuracy (%)": 71.8,
+        "Rel. Cost": 0.52
+    }
+]

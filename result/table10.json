@@ -1,0 +1,23 @@
+[
+    {
+        "Routing": "MoE Learned Gating",
+        "Acc.": 67.8,
+        "CER": 10.2,
+        "FPR": 58,
+        "Deterministic": "No"
+    },
+    {
+        "Routing": "Tool-Augmented",
+        "Acc.": 69.5,
+        "CER": 9.4,
+        "FPR": 45,
+        "Deterministic": "No"
+    },
+    {
+        "Routing": "D³R (Deterministic)",
+        "Acc.": 72.1,
+        "CER": 2.4,
+        "FPR": 14,
+        "Deterministic": "Yes"
+    }
+]

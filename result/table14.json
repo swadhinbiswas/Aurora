@@ -1,0 +1,16 @@
+[
+    {
+        "System": "Dense (NVFP4)",
+        "Depth 4": 0.18,
+        "Depth 8": 0.54,
+        "Depth 12": 1.41,
+        "Depth 16": 3.87
+    },
+    {
+        "System": "ART (NVFP4)",
+        "Depth 4": 0.12,
+        "Depth 8": 0.19,
+        "Depth 12": 0.23,
+        "Depth 16": 0.28
+    }
+]
