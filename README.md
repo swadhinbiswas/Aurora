@@ -98,7 +98,7 @@ The bigger the shape, the better. Our multi-instance version (blue) performs bes
   <img src="result/figures/table14_chart.png" width="600" alt="Error growth with model depth">
 </p>
 
-In standard models (red line), small numerical errors compound layer after layer until they become significant. In our system (blue line), errors stay flat — they don't accumulate. This is the core guarantee that makes everything else work.
+In standard models (gray line), small numerical errors compound layer after layer until they become significant. In our system (green line), errors stay flat — they don't accumulate. This is the core guarantee that makes everything else work.
 
 ---
 
