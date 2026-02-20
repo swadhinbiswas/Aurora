@@ -11,12 +11,12 @@
   },
   {
     "System": "ART (Binary)",
-    "FP16": 3.2,
-    "NVFP4": 2.4
+    "FP16": 2.1,
+    "NVFP4": 2.9
   },
   {
     "System": "Multi-ART (M=3)",
-    "FP16": 1.6,
-    "NVFP4": 1.1
+    "FP16": 1.4,
+    "NVFP4": 1.8
   }
 ]

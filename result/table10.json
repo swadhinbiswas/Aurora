@@ -1,23 +1,23 @@
 [
-    {
-        "Routing": "MoE Learned Gating",
-        "Acc.": 67.8,
-        "CER": 10.2,
-        "FPR": 58,
-        "Deterministic": "No"
-    },
-    {
-        "Routing": "Tool-Augmented",
-        "Acc.": 69.5,
-        "CER": 9.4,
-        "FPR": 45,
-        "Deterministic": "No"
-    },
-    {
-        "Routing": "D³R (Deterministic)",
-        "Acc.": 72.1,
-        "CER": 2.4,
-        "FPR": 14,
-        "Deterministic": "Yes"
-    }
+  {
+    "Routing": "MoE Learned Gating",
+    "Acc.": 46.5,
+    "CER": 10.2,
+    "FPR": 58,
+    "Deterministic": "No"
+  },
+  {
+    "Routing": "Tool-Augmented",
+    "Acc.": 48.2,
+    "CER": 9.4,
+    "FPR": 45,
+    "Deterministic": "No"
+  },
+  {
+    "Routing": "D\u00b3R (Deterministic)",
+    "Acc.": 55.6,
+    "CER": 2.9,
+    "FPR": 14,
+    "Deterministic": "Yes"
+  }
 ]

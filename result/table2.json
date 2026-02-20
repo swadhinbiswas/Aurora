@@ -1,37 +1,37 @@
 [
   {
     "System": "Dense (FP16)",
-    "GSM8K": 68.4,
-    "MATH": 24.1,
-    "MMLU": 58.2,
-    "HumanEval": 32.3
+    "GSM8K": 47.2,
+    "MATH": 12.1,
+    "MMLU": 45.2,
+    "HumanEval": 21.3
   },
   {
     "System": "Dense (NVFP4)",
-    "GSM8K": 61.2,
-    "MATH": 18.7,
-    "MMLU": 52.4,
-    "HumanEval": 26.8
+    "GSM8K": 40.5,
+    "MATH": 9.8,
+    "MMLU": 38.6,
+    "HumanEval": 17.4
   },
   {
     "System": "ART (FP16)",
-    "GSM8K": 71.3,
-    "MATH": 27.8,
-    "MMLU": 60.1,
-    "HumanEval": 35.4
+    "GSM8K": 56.4,
+    "MATH": 18.2,
+    "MMLU": 49.3,
+    "HumanEval": 25.4
   },
   {
     "System": "ART (NVFP4)",
-    "GSM8K": 72.1,
-    "MATH": 28.5,
-    "MMLU": 61.3,
-    "HumanEval": 36.6
+    "GSM8K": 55.6,
+    "MATH": 17.5,
+    "MMLU": 48.6,
+    "HumanEval": 24.8
   },
   {
     "System": "Multi-ART (NVFP4)",
-    "GSM8K": 74.8,
-    "MATH": 31.2,
-    "MMLU": 63.7,
-    "HumanEval": 39.0
+    "GSM8K": 57.9,
+    "MATH": 19.1,
+    "MMLU": 50.4,
+    "HumanEval": 26.5
   }
 ]
